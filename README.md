@@ -1,5 +1,7 @@
 # nuxt-simple-blog
 
+The simple blog, where posts are gotten from https://jsonplaceholder.typicode.com/ and are showed them. Also there are used axios and tailwind for styling.
+
 ## Build Setup
 
 ```bash
